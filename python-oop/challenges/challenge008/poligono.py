@@ -37,6 +37,3 @@ class Circulo(Poligono):
     
     def area(self):
         return math.pi * self.raio ** 2
-
-
-        # teste
