@@ -1,5 +1,11 @@
+from termostatus import *
+
+
 def main():
-    pass
+    t = Termostato()
+    t.temperatura = 25
+
+    print(f"A temperatura atual é de {t.ftemperatura}")
 
 
 if __name__ == "__main__":
