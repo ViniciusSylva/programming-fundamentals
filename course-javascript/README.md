@@ -1,79 +1,33 @@
-# ⚡ JavaScript Fundamentals
+# JavaScript Exercises Repository
 
-## 🚀 About
+## 📌 About
+This repository contains exercises developed during the JavaScript course from Curso em Vídeo, taught by Gustavo Guanabara. The code focuses on practicing JavaScript fundamentals, DOM manipulation, and core web development concepts.
 
-This repository contains exercises and projects developed while learning **JavaScript**, focusing on building interactive web applications.
+## 🚀 Technologies
+- JavaScript
+- HTML
+- CSS
 
----
+## 🧠 What I learned
+- JavaScript basic syntax
+- DOM manipulation
+- Events (click, load, input)
+- Conditional and loop structures
+- Functions and scope
+- Arrays and objects
+- Integration between HTML, CSS, and JavaScript
 
-## 📖 Topics Covered
+## ⚠️ Challenges
+- Understanding DOM manipulation in practice
+- Handling events and user interactions
+- Keeping code clean and reusable
 
-### 📌 Fundamentals
+## 🔧 Improvements
+- Build more complex JavaScript projects
+- Learn frameworks like React
+- Work with external APIs
 
-* Variables (`var`, `let`, `const`)
-* Data types
-* Operators
-* Type conversion
-* Input and output
-* Conditionals (`if`, `else`, `switch`)
-* Loops (`for`, `while`, `do while`)
-
----
-
-### 🗂 Data Structures
-
-* Arrays
-* Objects
-* Functions
-* Parameters and return values
-
----
-
-### 🌐 DOM Manipulation
-
-* Element selection
-* Events
-* Content manipulation
-* Style manipulation
-* Form interaction
-
----
-
-### ⚙️ Advanced Concepts
-
-* Anonymous functions
-* Arrow functions
-* Scope
-* JSON (introduction)
-* LocalStorage (introduction)
-
----
-
-## 🚀 Projects
-
-* Age verifier
-* Number analyzer
-* Counter
-* Multiplication table
-* Dynamic time system
-* DOM-based interactive projects
-
----
-
-## 🛠 Technologies
-
-* JavaScript
-* HTML
-* CSS
-
----
-
-## 📌 Purpose
-
-To develop programming logic and master DOM manipulation in order to build interactive web applications.
-
----
-
-## 📈 Status
-
-🚀 Evolving step by step in the Front-End journey.
+## 🌎 About me
+I am a Computer Science student in Brazil, focused on learning and continuous growth.
+I currently work at a technology company in the backend and automation field.
+I am still exploring different paths within technology to find my specialization, while developing practical projects and strengthening my foundation.

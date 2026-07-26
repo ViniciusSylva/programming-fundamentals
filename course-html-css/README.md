@@ -1,67 +1,32 @@
-# 🌐 HTML & CSS Fundamentals
+# HTML & CSS Exercises Repository
 
-## 🚀 About
+## 📌 About
+Este repositório contém exercícios desenvolvidos durante o curso de HTML5 e CSS3 do Curso em Vídeo, ministrado por Gustavo Guanabara. Os códigos foram feitos com foco na construção de páginas web, estruturação com HTML e estilização com CSS.
 
-This repository contains studies and projects developed while learning **HTML5 and CSS3**, focusing on building modern and responsive web pages.
+## 🚀 Technologies
+- HTML5
+- CSS3
 
----
+## 🧠 What I learned
+- Estrutura básica de páginas HTML
+- Tags semânticas (header, section, article, footer)
+- Criação de formulários
+- Estilização com CSS
+- Box model (margin, padding, border)
+- Layouts com Flexbox
+- Responsividade básica
 
-## 📖 Topics Covered
+## ⚠️ Challenges
+- Organizar o layout das páginas corretamente
+- Entender o funcionamento do CSS e suas propriedades
+- Trabalhar com responsividade em diferentes telas
 
-### 📌 HTML5
+## 🔧 Improvements
+- Criar projetos completos de páginas web
+- Aprender CSS avançado e animações
+- Estudar frameworks como Bootstrap ou Tailwind
 
-* Basic document structure
-* Semantic tags
-* Heading hierarchy
-* Lists (ordered and unordered)
-* Internal and external links
-* Images
-* Audio and video
-* Tables
-* Forms
-* Iframes
-
----
-
-### 🎨 CSS3
-
-* Selectors
-* Colors and units
-* Box Model
-* Typography
-* Pseudo-classes and pseudo-elements
-* CSS variables
-* Responsiveness
-* Media Queries
-* Flexbox
-* Introduction to Grid Layout
-
----
-
-## 🚀 Projects
-
-* Basic HTML website
-* Fully styled website with CSS
-* Android project
-* Cordel Moderno project
-* Portfolio project
-* Responsive projects
-
----
-
-## 🛠 Technologies
-
-* HTML5
-* CSS3
-
----
-
-## 📌 Purpose
-
-To strengthen the fundamentals of building and styling modern, responsive web pages.
-
----
-
-## 📈 Status
-
-📚 Focused on continuous learning and improvement.
+## 🌎 About me
+I am a Computer Science student in Brazil, focused on learning and continuous growth.
+I currently work at a technology company in the backend and automation field.
+I am still exploring different paths within technology to find my specialization, while developing practical projects and strengthening my foundation.
