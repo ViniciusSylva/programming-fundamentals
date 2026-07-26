@@ -1,113 +1,39 @@
-# 🌐 Web Fundamentals
+# Web Fundamentals Repository
 
-## 🚀 About
+## 📌 About
+Este repositório reúne meus estudos e projetos desenvolvidos durante os cursos de HTML5, CSS3 e JavaScript do Curso em Vídeo, ministrados por Gustavo Guanabara. O objetivo é consolidar os fundamentos do desenvolvimento web, incluindo estrutura, estilização e interatividade.
 
-This repository contains my studies and projects developed while learning **HTML5, CSS3, and JavaScript**.
+Aqui você encontrará exercícios práticos e projetos que simulam aplicações reais, demonstrando minha evolução na construção de interfaces web.
 
-The goal is to build a solid foundation in front-end development, focusing on structure, styling, and interactivity.
+## 🚀 Technologies
+- HTML5
+- CSS3
+- JavaScript
 
----
+## 🧠 What I learned
+- Estruturação de páginas com HTML semântico
+- Estilização com CSS (cores, tipografia e layouts)
+- Box model (margin, padding, border)
+- Layouts com Flexbox
+- Responsividade para diferentes dispositivos
+- Manipulação do DOM com JavaScript
+- Eventos e interações com o usuário
+- Integração entre HTML, CSS e JavaScript
+- Criação de projetos completos de páginas web
 
-## 📖 Topics Covered
+## ⚠️ Challenges
+- Construir layouts responsivos e organizados
+- Entender a integração entre HTML, CSS e JavaScript
+- Trabalhar com interações dinâmicas no navegador
+- Manter o código limpo e bem estruturado
 
-### 📌 HTML5
+## 🔧 Improvements
+- Criar projetos mais avançados e completos
+- Aprender frameworks modernos (React, Next.js)
+- Melhorar design e experiência do usuário (UI/UX)
+- Consumir APIs e integrar dados dinâmicos
 
-* Basic document structure
-* Semantic tags
-* Heading hierarchy
-* Lists (ordered and unordered)
-* Internal and external links
-* Images
-* Audio and video
-* Tables
-* Forms
-* Iframes
-
----
-
-### 🎨 CSS3
-
-* Selectors
-* Colors and units
-* Box Model
-* Typography
-* Pseudo-classes and pseudo-elements
-* CSS variables
-* Responsiveness
-* Media Queries
-* Flexbox
-* Introduction to Grid Layout
-
----
-
-### ⚡ JavaScript
-
-#### Fundamentals
-
-* Variables (`var`, `let`, `const`)
-* Data types
-* Operators
-* Type conversion
-* Input and output
-* Conditionals (`if`, `else`, `switch`)
-* Loops (`for`, `while`, `do while`)
-
-#### Data Structures
-
-* Arrays
-* Objects
-* Functions
-* Parameters and return
-
-#### DOM Manipulation
-
-* Element selection
-* Events
-* Content manipulation
-* Style manipulation
-* Form interaction
-
-#### Advanced Concepts
-
-* Anonymous functions
-* Arrow functions
-* Scope
-* JSON (introduction)
-* LocalStorage (introduction)
-
----
-
-## 🚀 Projects
-
-* Basic HTML website
-* Styled website with CSS
-* Responsive layouts
-* Age verifier
-* Number analyzer
-* Counter
-* Multiplication table
-* Dynamic time system
-* DOM-based interactive projects
-* Portfolio project
-* Android project
-* Cordel Moderno project
-
----
-
-## 🛠 Technologies
-
-* HTML5
-* CSS3
-* JavaScript
-
----
-
-## 📌 Purpose
-
-To strengthen core front-end development skills and build a solid understanding of how to create modern, responsive, and interactive web applications.
-
----
-
-## 📈 Status
-
-📚 Ongoing learning and continuous improvement.
+## 🌎 About me
+I am a Computer Science student in Brazil, focused on learning and continuous growth.
+I currently work at a technology company in the backend and automation field.
+I am still exploring different paths within technology to find my specialization, while developing practical projects and strengthening my foundation.
