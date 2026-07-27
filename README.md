@@ -33,5 +33,8 @@ This repository centralizes my learning journey in programming fundamentals, cov
 - Add examples and explanations for each topic  
 - Create a more detailed learning roadmap  
 
+## 📈 Status
+🚧 In progress — constantly improving and adding new projects
+
 ## 🌎 About me
 I am a Computer Science student in Brazil, focused on learning and continuous growth. I currently work at a technology company in the backend and automation field. I am still exploring different paths within technology to find my specialization, while developing practical projects and strengthening my foundation.
