@@ -2,7 +2,7 @@ from retangulo import Retangulo
 
 def main():
 
-    r = retangulo()
+    r = Retangulo()
 
     try:
         r.base = 12

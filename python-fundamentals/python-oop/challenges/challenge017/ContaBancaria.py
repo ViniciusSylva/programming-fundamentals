@@ -8,9 +8,12 @@ class ContaBancaria:
         self._id = id
         self._name = name
         self.__saldo = saldo
+
         if chave is None: 
-            self.pede_senha()
-        self.__hash = sha256(chave.encode()).hexdigest('utf-8')
+            chave = self.pede_senha()
+
+        self.__hash = sha256(chave.encode()).hexdigest()
+
         print(f"Conta {self._id} criada para {self._name} com saldo inicial de R$ {self.__saldo:.2f}")
 
     def pede_senha(self) -> str:
@@ -33,7 +36,7 @@ class ContaBancaria:
 
     def __str__(self):
         #return f"Estado atual da conta: {self.__dict__}"
-        return f"A conta {self.id} pertence a {self.name} e tem um saldo atual de R${self.saldo:.2f}."
+        return f"A conta {self._id} pertence a {self._name} e tem um saldo atual de R${self.__saldo:.2f}."
     
     def depositar(self, valor):
         valor = abs(valor)
@@ -57,14 +60,14 @@ class ContaBancaria:
 
     @property
     def nome(self):
-        return self._titular
+        return self.name
 
     @nome.setter
-    def nome(self, novonome:str = None):
+    def nome(self, novonome:str):
         chave = self.pede_senha()
 
         if self.validar_senha(chave):
             if len(novonome) >= 5:
-                self._titular = novonome
+                self.name = novonome
         else:
             print("Senha não confere. Não posso alterar o nome!")

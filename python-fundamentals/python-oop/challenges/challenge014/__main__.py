@@ -7,7 +7,7 @@ def main():
     try:
         meudiario.ler("Teste")
     except Exception as e:
-        (f"[red][ERROR]: {e}")
+        print(f"[ERROR]: {e}")
 
 if __name__ == "__main__":
     main()

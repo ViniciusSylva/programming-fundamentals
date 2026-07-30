@@ -30,10 +30,11 @@ class Pessoa(ABC):
 class Aluno(Pessoa):
 
     cursos_oficiais = ["ADM", "ADS", "INF", "ENG"]
-    def __init__(self):
+    
+    def __init__(self, nome: str, nasc: int, curso: str):
         super().__init__(nome, nasc)
         self._curso = None
-        self.curso = self.curso
+        self.curso = curso
 
     @property
     def curso(self):
