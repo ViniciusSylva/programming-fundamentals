@@ -9,41 +9,48 @@ class Funcionario(ABC):
 
         self.__senha = senha
 
-        @property
-        def senha(self):
-            return self.__senha
+    @property
+    def senha(self):
+        return self.__senha
 
-        @senha.setter
-        def senha(self, novasenha):
-            self.__senha = sha256(novasenha.encode()).hexdigest()
-            return self.__senha
+    @senha.setter
+    def set_senha(self, senha):
+        self.__senha = sha256(senha.encode()).hexdigest()
+        return self.__senha
 
-        def autenticar_senha(self, testesenha):
-            if self.__senha == sha256(testesenha.encode()).hexdigest():
-                print("Senha confere!")
-            else: 
-                print("Senha não confere")
+    def autenticar(self, senha):
+        if self.__senha == sha256(senha.encode()).hexdigest():
+            print("Senha confere!")
+        else: 
+            print("Senha não confere")
 
-        @abstractmethod
-        def calcular_bonus():
-            pass
+    @abstractmethod
+    def calcular_bonus():
+        pass
 
 
 class Gerente(Funcionario):
     def __init__(self, nome:str, salario:float, senha:str):
-        super().__init__(self, nome, salario)
+        super().__init__(nome, salario, senha)
         self.nome = nome
         self.salario = salario
+        self.__senha = senha
 
-        def calcular_bonus():
-            pass
+    def calcular_bonus(self):
+        self.salario = self.salario * 1.2
+        print(f"Salario de Gerente com bonus de cargo de 20%: {self.salario:.2f}")
+        return self.salario
+        
 
 
 class Desenvolvedor(Funcionario): 
     def __init__(self, nome:str, salario:float, senha:str):
-        super().__init__(self, nome, salario)
+        super().__init__(nome, salario, senha)
         self.nome = nome
         self.salario = salario
+        self.__senha = senha
 
-        def calcular_bonus():
-            pass
+    def calcular_bonus(self):
+        self.salario = self.salario * 1.4
+        print(f"Salario de Desenvolvedor com bonus de cargo de 40%: {self.salario:.2f}")
+        return self.salario
