@@ -1,4 +1,4 @@
 # Ignores HTML, TeX, and CSS in GitHub's language calculation because there is a lot of Python code and it isn't being counted correctly.
-*.html linguist-vendored
-*.css linguist-vendored
-*.tex linguist-detectable=false
+*.html linguist-vendored=true
+*.css linguist-vendored=true
+*.tex linguist-documentation=true
