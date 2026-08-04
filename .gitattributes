@@ -1,15 +1,19 @@
-# FORCE ignore TeX completely
-*.tex linguist-detectable=false
-*.tex linguist-vendored=true
-*.tex -linguist-language
-
-# Ignore other noise
+# Ignore markup that skews stats
 *.html linguist-vendored=true
 *.css linguist-vendored=true
 
-# Ignore docs folder if exists
-docs/** linguist-documentation=true
+# Disable TeX detection (even if misclassified)
+*.tex linguist-detectable=false
 
-# Ignore generated/build files
+# Force correct classification
+*.md linguist-language=Markdown
+*.py linguist-language=Python
+
+# Ignore assets
+*.jpg linguist-generated=true
+*.png linguist-generated=true
+*.jpeg linguist-generated=true
+
+# Ignore build folders
 dist/** linguist-generated=true
 build/** linguist-generated=true
