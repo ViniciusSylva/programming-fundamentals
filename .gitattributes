@@ -1,4 +1,11 @@
-# Ignores HTML, TeX, and CSS in GitHub's language calculation because there is a lot of Python code and it isn't being counted correctly.
+# =========================
+# GitHub Linguist Config
+# =========================
+
+# Ignore TeX files in language statistics
+*.tex linguist-detectable=false
+*.tex linguist-vendored=true
+
+# Ignore markup/style files that may skew language stats
 *.html linguist-vendored=true
 *.css linguist-vendored=true
-*.tex linguist-documentation=true
