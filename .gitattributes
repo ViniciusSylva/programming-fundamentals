@@ -2,10 +2,11 @@
 *.html linguist-vendored=true
 *.css linguist-vendored=true
 
-# Disable TeX detection (even if misclassified)
+# Disable TeX and false positives
 *.tex linguist-detectable=false
+*.txt linguist-detectable=false
 
-# Force correct classification
+# Force correct languages
 *.md linguist-language=Markdown
 *.py linguist-language=Python
 
