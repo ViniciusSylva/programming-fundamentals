@@ -1,11 +1,15 @@
-# =========================
-# GitHub Linguist Config
-# =========================
-
-# Ignore TeX files in language statistics
+# FORCE ignore TeX completely
 *.tex linguist-detectable=false
 *.tex linguist-vendored=true
+*.tex -linguist-language
 
-# Ignore markup/style files that may skew language stats
+# Ignore other noise
 *.html linguist-vendored=true
 *.css linguist-vendored=true
+
+# Ignore docs folder if exists
+docs/** linguist-documentation=true
+
+# Ignore generated/build files
+dist/** linguist-generated=true
+build/** linguist-generated=true
