@@ -2,7 +2,7 @@
 *.html linguist-vendored=true
 *.css linguist-vendored=true
 
-# Disable TeX and false positives
+# Kill false positives
 *.tex linguist-detectable=false
 *.txt linguist-detectable=false
 
@@ -18,3 +18,6 @@
 # Ignore build folders
 dist/** linguist-generated=true
 build/** linguist-generated=true
+
+# 🔥 MAIN FIX: ignore web fundamentals folder
+web-fundamentals/** linguist-vendored=true
