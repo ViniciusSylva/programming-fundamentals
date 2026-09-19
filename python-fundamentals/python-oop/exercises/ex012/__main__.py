@@ -1,4 +1,4 @@
-from exercises.ex012.classes import Cachorro, Gato, Pato, Galinha, Spitz, PitBull
+from classes import *
 
 def main():
     a = Cachorro("Bandit")

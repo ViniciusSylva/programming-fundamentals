@@ -6,7 +6,7 @@ class Animal(ABC):
         self.nome = nome
 
     @abstractclassmethod
-    def emitir_son(self):
+    def emitir_som(self):
         print(f"{self.nome} é {self.__class__.__name__} e está emitindo um som")
 
 

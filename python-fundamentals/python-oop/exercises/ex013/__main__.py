@@ -1,4 +1,4 @@
-from exercises.ex013.classes import *
+from classes import *
 
 def main():
     p1 = Mae("Jaciara")
