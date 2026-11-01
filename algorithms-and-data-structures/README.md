@@ -1,5 +1,7 @@
 # Algorithms Exercises Repository
 
+---
+
 ## 📌 About
 This repository contains exercises developed during the Algorithms course from Curso em Vídeo, taught by Gustavo Guanabara. The exercises focus on programming logic using pseudocode and fundamental algorithm concepts.
 

@@ -1,5 +1,7 @@
 # Python Object-Oriented Programming
 
+---
+
 ## 📌 About
 
 This repository contains exercises, challenges, and practical examples developed during the Object-Oriented Programming (OOP) course in Python by Gustavo Guanabara (Curso em Vídeo). The main goal was to understand core OOP concepts and apply them through simple projects.

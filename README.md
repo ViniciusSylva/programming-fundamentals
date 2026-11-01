@@ -1,5 +1,7 @@
 # 📚 Programming Fundamentals
 
+---
+
 ## 📌 About
 This repository centralizes my learning journey in programming fundamentals, covering multiple areas such as web development, backend programming, databases, version control, and algorithms. It was created by consolidating several smaller repositories into a single structured project for better organization and clarity.
 

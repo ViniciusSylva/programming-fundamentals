@@ -1,5 +1,7 @@
 # JavaScript Exercises Repository
 
+---
+
 ## 📌 About
 This repository contains exercises developed during the JavaScript course from Curso em Vídeo, taught by Gustavo Guanabara. The code focuses on practicing JavaScript fundamentals, DOM manipulation, and core web development concepts.
 

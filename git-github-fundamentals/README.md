@@ -1,5 +1,7 @@
 # Git and GitHub Fundamentals
 
+---
+
 ## 📌 About
 
 This repository contains my studies and hands-on practice from the Git and GitHub course by Curso em Vídeo, taught by Gustavo Guanabara. Here I applied fundamental concepts of version control, project organization, and GitHub usage.

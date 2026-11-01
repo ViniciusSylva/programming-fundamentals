@@ -1,5 +1,7 @@
 # 🤖 RPA Workflows
 
+---
+
 ## 🚀 About
 This folder contains automation scripts using Selenium to simulate real-world RPA tasks.
 

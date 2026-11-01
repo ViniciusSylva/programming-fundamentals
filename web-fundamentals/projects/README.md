@@ -1,5 +1,7 @@
 # HTML & CSS Projects Repository
 
+---
+
 ## 📌 About
 This repository contains exercises and projects developed during the HTML5 and CSS3 course from Curso em Vídeo, taught by Gustavo Guanabara. In addition to basic exercises, it includes practical projects that simulate real web pages, some of them with JavaScript integration to add interactivity.
 

@@ -1,5 +1,7 @@
 # Debugging Practice
 
+---
+
 ## 📌 About
 This folder contains exercises focused on debugging and understanding Python errors, aiming to improve problem-solving skills.
 

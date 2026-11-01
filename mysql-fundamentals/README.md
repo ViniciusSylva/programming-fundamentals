@@ -1,5 +1,7 @@
 # MySQL Exercises Repository
 
+---
+
 ## 📌 About
 
 This repository contains practical exercises developed during the MySQL course from Curso em Vídeo, taught by Gustavo Guanabara. The files are organized in `.sql` format, focusing on practicing fundamental database concepts and commands.
