@@ -1,9 +1,11 @@
 # Web Fundamentals Repository
 
-## 📌 About
-Este repositório reúne meus estudos e projetos desenvolvidos durante os cursos de HTML5, CSS3 e JavaScript do Curso em Vídeo, ministrados por Gustavo Guanabara. O objetivo é consolidar os fundamentos do desenvolvimento web, incluindo estrutura, estilização e interatividade.
+---
 
-Aqui você encontrará exercícios práticos e projetos que simulam aplicações reais, demonstrando minha evolução na construção de interfaces web.
+## 📌 About
+This repository gathers my studies and projects developed during the HTML5, CSS3, and JavaScript courses from Curso em Vídeo, taught by Gustavo Guanabara. The goal is to consolidate web development fundamentals, including page structure, styling, and interactivity.
+
+Here you will find practical exercises and projects that simulate real-world applications, demonstrating my evolution in building web interfaces.
 
 ## 🚀 Technologies
 - HTML5
@@ -11,27 +13,27 @@ Aqui você encontrará exercícios práticos e projetos que simulam aplicações
 - JavaScript
 
 ## 🧠 What I learned
-- Estruturação de páginas com HTML semântico
-- Estilização com CSS (cores, tipografia e layouts)
+- Page structuring with semantic HTML
+- Styling with CSS (colors, typography, and layouts)
 - Box model (margin, padding, border)
-- Layouts com Flexbox
-- Responsividade para diferentes dispositivos
-- Manipulação do DOM com JavaScript
-- Eventos e interações com o usuário
-- Integração entre HTML, CSS e JavaScript
-- Criação de projetos completos de páginas web
+- Layouts with Flexbox
+- Responsiveness for different devices
+- DOM manipulation with JavaScript
+- Events and user interactions
+- Integration between HTML, CSS, and JavaScript
+- Building complete web page projects
 
 ## ⚠️ Challenges
-- Construir layouts responsivos e organizados
-- Entender a integração entre HTML, CSS e JavaScript
-- Trabalhar com interações dinâmicas no navegador
-- Manter o código limpo e bem estruturado
+- Building responsive and organized layouts
+- Understanding the integration between HTML, CSS, and JavaScript
+- Working with dynamic browser interactions
+- Keeping the code clean and well-structured
 
 ## 🔧 Improvements
-- Criar projetos mais avançados e completos
-- Aprender frameworks modernos (React, Next.js)
-- Melhorar design e experiência do usuário (UI/UX)
-- Consumir APIs e integrar dados dinâmicos
+- Build more advanced and comprehensive projects
+- Learn modern frameworks (React, Next.js)
+- Enhance UI/UX design and user experience
+- Consume APIs and integrate dynamic data
 
 ## 🌎 About me
 I am a Computer Science student in Brazil, focused on learning and continuous growth.

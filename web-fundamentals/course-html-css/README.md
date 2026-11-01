@@ -1,30 +1,32 @@
 # HTML & CSS Exercises Repository
 
+---
+
 ## 📌 About
-Este repositório contém exercícios desenvolvidos durante o curso de HTML5 e CSS3 do Curso em Vídeo, ministrado por Gustavo Guanabara. Os códigos foram feitos com foco na construção de páginas web, estruturação com HTML e estilização com CSS.
+This repository contains exercises developed during the HTML5 and CSS3 course from Curso em Vídeo, taught by Gustavo Guanabara. The code was built with a focus on web page construction, structuring with HTML, and styling with CSS.
 
 ## 🚀 Technologies
 - HTML5
 - CSS3
 
 ## 🧠 What I learned
-- Estrutura básica de páginas HTML
-- Tags semânticas (header, section, article, footer)
-- Criação de formulários
-- Estilização com CSS
+- Basic structure of HTML pages
+- Semantic tags (header, section, article, footer)
+- Form creation
+- Styling with CSS
 - Box model (margin, padding, border)
-- Layouts com Flexbox
-- Responsividade básica
+- Layouts with Flexbox
+- Basic responsiveness
 
 ## ⚠️ Challenges
-- Organizar o layout das páginas corretamente
-- Entender o funcionamento do CSS e suas propriedades
-- Trabalhar com responsividade em diferentes telas
+- Organizing page layouts correctly
+- Understanding how CSS properties work under the hood
+- Handling responsiveness across different screen sizes
 
 ## 🔧 Improvements
-- Criar projetos completos de páginas web
-- Aprender CSS avançado e animações
-- Estudar frameworks como Bootstrap ou Tailwind
+- Build complete web page projects
+- Learn advanced CSS and animations
+- Study CSS frameworks such as Bootstrap or Tailwind CSS
 
 ## 🌎 About me
 I am a Computer Science student in Brazil, focused on learning and continuous growth.
